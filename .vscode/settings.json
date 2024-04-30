@@ -1,0 +1,7 @@
+{
+    "exportall.config.folderListener": [
+        "/apps/back-express/src/services/api",
+        "/apps/back-express/src/services/database",
+        "/apps/back-express/src/services"
+    ]
+}
